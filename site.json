@@ -1,0 +1,10 @@
+{
+  "description": "Transforms design files into simple, exact websites preserving fonts and colors for a seamless, professional online presence.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
